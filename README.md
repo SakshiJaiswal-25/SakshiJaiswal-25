@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshijaiswal-25&label=Profile%20views&color=0e75b6&style=flat" alt="sakshijaiswal-25" /> </p>
 
-- 🔭 I’m currently working on **a personal project using HTML,CSS,JS.**
+- 🔭 I’m currently working on **a project using HTML,CSS,JS.**
 
 - 🌱 I’m currently learning **React.js.**
 
@@ -12,13 +12,14 @@
 
 - 👨‍💻 All of my projects are available at [http://127.0.0.1:5501/index.html](http://127.0.0.1:5501/index.html)
 
-- 💬 Ask me about **Hii,I'm Sakshi Jaiswal,a passionate Full-stack developer who loves building web applications and contributing to open-source projects.**
+- 💬 Ask me about web development who loves building web applications and contributing to open-source projects.**
 
 - 📫 How to reach me **sakshijais9369@gmail.com**
 
-- 📄 Know about my experiences [sjresume.pdf](sjresume.pdf)
+- 📄 Know about my experiences learning new technologies and keep growing every day in my coding journey.
 
-- ⚡ Fun fact **"Work Harder".When I'm not coding, you'll find me exploring things and listening music.**
+- ⚡ Fun fact "Work Harder".When I'm not coding, you'll find me exploring things and listening music.It aspires me to create different apps.
+- 🌟 "Opportunities don’t happen. You create them."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
