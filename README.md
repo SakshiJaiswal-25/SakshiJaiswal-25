@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi Jaiswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400px" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw0sSe0QLtBpoyat99sApLtg&ust=1741326168948000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCvoJvg9IsDFQAAAAAdAAAAABAS">
+<img align="right" width="400px" alt="coding" src=" https://user-images.githubusercontent...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshijaiswal-25&label=Profile%20views&color=0e75b6&style=flat" alt="sakshijaiswal-25" /> </p>
 
