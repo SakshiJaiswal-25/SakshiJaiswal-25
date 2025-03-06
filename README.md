@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi Jaiswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400px" alt="coding" src=" https://user-images.githubusercontent...">
+<img align="right" width="400px" alt="coding" src=" ![image](https://github.com/user-attachments/assets/dc2f64ae-06e2-4e36-a96e-83ff35228bd4)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshijaiswal-25&label=Profile%20views&color=0e75b6&style=flat" alt="sakshijaiswal-25" /> </p>
 
